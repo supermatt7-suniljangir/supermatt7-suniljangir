@@ -37,9 +37,8 @@ I am diving deeper into advanced data structures and algorithms to enhance my pr
 
 ## 💬 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/sunil-jangir-a242a630a/)
+- [Portfolio](https://suniljangid.netlify.app)
 
 Feel free to reach out if you're interested in collaboration, have questions about web development, or just want to chat!
 
