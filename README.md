@@ -1,50 +1,85 @@
-# 👋 Hi, I'm Sunil Jangid!
+# Sunil Jangid  
+**Full Stack Developer · React · Next.js · TypeScript · AWS**
 
-I am a dedicated Fullstack Developer with a passion for building efficient and user-friendly web applications. My expertise lies primarily in frontend development, utilizing modern technologies to create seamless user experiences while also possessing the skills to handle backend development.
+> I build performant, scalable, and user-centric web apps with clean architecture and creative direction.
 
-## 🌟 About Me
-
-- 💻 **Fullstack Developer** with a strong emphasis on frontend technologies.
-- 🚀 Skilled in using **React**, **TypeScript**, and **CSS Frameworks and Libraries** to create dynamic and responsive user interfaces.
-- 🌐 Experienced in integrating backend services using **AWS SDK v3**, **DynamoDB**, **Node.js**,  **MongoDB**.
-- 🔍 Constantly learning and exploring new technologies to enhance my skill set and stay updated with industry trends.
-
-## 💼 Projects
-
-### [Creative Spotlight](https://github.com/supermatt7-suniljangir/creative-spotlight)
-A platform inspired by Behance and Dribbble, allowing creators to showcase their work and connect with potential clients. Features include:
-- Real-time messaging functionality for collaboration.
-- Project bookmarking and liking for easy access.
-- Streamlined project submission process for creators.
-
-### [YouTube 2.0](https://github.com/supermatt7-suniljangir/youtube-2.0)
-An interactive application built using vanilla JavaScript and RapidAPI's YouTube v3 API, enabling users to explore YouTube content without the need for a backend.
-
-## 🛠️ Skills
-
-- **Frontend Technologies:**
-  - React, Redux, Material-UI
-  - TypeScript, HTML5, CSS3, Styled Components
-- **Backend Technologies:**
-  - Node.js, Express.js, MongoDB
-  - DynamoDB, AWS SDK v3
-- **Development Tools:**
-  - Vite, React Query, Git, GitHub
-
-## 🌱 Current Learning Focus
-
-I am diving deeper into advanced data structures and algorithms to enhance my problem-solving capabilities and prepare for technical interviews. Additionally, I am exploring **Node.js** and backend frameworks to strengthen my fullstack development skills.
-
-## 💬 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/sunil-jangir-a242a630a/)
-- [Portfolio](https://suniljangid.netlify.app)
-
-Feel free to reach out if you're interested in collaboration, have questions about web development, or just want to chat!
-
-## 🎉 Fun Fact
-
-If a bug takes more than an hour to solve, I will have to wait for another 2 days, because amazon takes atleast 2 days to deliver a new mouse.
 ---
 
-Thank you for visiting my profile! 🌟
+## 🔹 About Me
+
+I'm a full-stack developer with a frontend-first mindset and a backend backbone.  
+Focused on delivering sleek UI, efficient APIs, and cloud-native deployments.
+
+- Specialize in **React**, **TypeScript**, **Next.js App Router**, **Express.js**
+- Comfortable across the stack: **MongoDB**, **Redis**, **Node.js**, **AWS (CDK, EC2, S3, CloudFront, CodePipeline, Lambda, API Gateway, DynamoDB)**
+- Build for **real-world use** — responsive, accessible, fast, and production-ready
+
+---
+
+## 🔧 Experience
+
+### 🏢 ScalarPay — *Software Engineering Intern*  
+**Jan 2024 – Mar 2024**
+
+Worked on scalable backend services and internal tools interfacing with payment gateways.
+
+- Developed microservices using **Node.js** and **TypeScript**
+- Integrated external **payment APIs** and improved **webhook reliability**
+- Designed internal dashboards with **React** and **Tailwind CSS**
+- Collaborated in a **CI/CD GitHub-based** pipeline with rigorous code reviews
+
+> Learned to balance performance and maintainability in production-grade systems.
+
+---
+
+## 🔸 Projects
+
+### 🧩 RadiatorForge  
+**[Live Demo](https://radiatorforge.suniljangir.site)** · **[Frontend](https://github.com/supermatt7-suniljangir/RF-Frontend)** · **[Backend](https://github.com/supermatt7-suniljangir/RF-Backend)**
+
+**A creative portfolio platform built for professionals to showcase, connect, and collaborate.**  
+Inspired by Dribbble and Behance — but architected for scale, performance, and real-time interaction.
+
+#### ⚙️ Built With
+
+- **Frontend:** Next.js (App Router), TypeScript, Tailwind CSS, Shadcn UI, Radix UI
+- **Backend:** Express.js, MongoDB, Redis, Socket.io
+- **Infrastructure:** AWS CDK · EC2 · S3 · CloudFront · ACM (HTTPS)
+
+#### 🔑 Features
+
+- Real-time chat, bookmarking, liking, and commenting
+- Customizable user portfolios: avatar, banner, creative tags
+- Blazing-fast content discovery via MongoDB Aggregation Pipelines
+- Secure authentication: HTTP-only JWTs + Google OAuth
+- Cloud-native deployment via AWS CDK
+
+> Built mobile-first. SEO-optimized. Performance-obsessed.
+
+---
+
+### 🎬 YouTube 2.0  
+**[Live Demo](https://youtube2bymatt.netlify.app)** · **[Code](https://github.com/supermatt7-suniljangir/youtube2.0)**
+
+A minimalist YouTube clone built with **vanilla JavaScript**, **SASS**, and **RapidAPI** (YouTube v3).  
+No frameworks — just optimized, lightweight, responsive code with ~90% Lighthouse scores.
+
+---
+
+## 🛠️ Tech I'm Using
+
+| Frontend               | Backend & Infra                    | Dev Tools                           |
+|------------------------|-------------------------------------|-------------------------------------|
+| Next.js · React 18     | Node.js · Express · MongoDB · Redis| Git · GitHub · Postman · Figma      |
+| Tailwind · Shadcn UI   | Socket.io · JWT · Google OAuth     | AWS CDK · EC2 · S3 · CloudFront     |
+| TypeScript · Radix UI  | REST API · Aggregation Pipelines   | Cloudinary · Vite · ESLint          |
+
+---
+
+##  Say Hi
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sunil-jangir-a242a630a/)
+- 🌐 [Portfolio](https://suniljangid.netlify.app)
+
+---
+
